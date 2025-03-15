@@ -21,6 +21,7 @@ Password: **`joinlaunch`**
 
 ## Links
 
+- Official welcome page: [https://hackclub.notion.site/scrapyard](https://hackclub.notion.site/scrapyard)
 - **Boba Drops** submission: [https://hack.club/boba-workshop](https://hack.club/boba-workshop)
 - **Podium**: [https://podium.hackclub.com/events](https://podium.hackclub.com/events)
 

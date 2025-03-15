@@ -1,6 +1,6 @@
 # Scrapyard Winnipeg Links and Info
 
-## Rough Schedule
+## Rough schedule
 
 - 09:15 - Opening Ceremony
 - 09:30 - 11:30 - Workshops: Boba Drops & Godot
@@ -15,9 +15,9 @@
 
 ## Wi-Fi
 
-**Name**: `Launch Guest`
+Name: **`Launch Guest`**
 
-**Password**: `joinlaunch`
+Password: **`joinlaunch`**
 
 ## Links
 

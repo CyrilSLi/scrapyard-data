@@ -3,9 +3,9 @@
 ## Rough schedule
 
 - 09:15 - Opening Ceremony
-- 09:30 - 11:30 - Workshops: Boba Drops & Godot
+- 09:30 - Workshops: Boba Drops & Godot
 - Start working on your projects!
-- 12:00: Lunch
+- 12:00 - Lunch
 - More work time :)
 - 18:00 (6PM) - Dinner
 - 19:30 (7:30 PM) - Project Demos & Voting

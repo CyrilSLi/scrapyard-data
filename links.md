@@ -29,6 +29,7 @@ Password: **`joinlaunch`**
     - [Usage Instructions](https://docs.google.com/document/d/14WFX9GWybl3dlpYt2hXv4qr5sic1pFi0Vn5eim95I0w/view)
     - [Video Tutorial](https://www.loom.com/share/bbbab3e972df4a92a3f805616ea69cbb)
   - [Deployment Guide](https://hackclub.notion.site/depolyment-guide)
+- Join Slack: [https://hackclub.com/slack/](https://hackclub.com/slack/)
 
 ## Presentations
 

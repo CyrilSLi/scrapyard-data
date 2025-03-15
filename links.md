@@ -37,3 +37,7 @@ Password: **`joinlaunch`**
 - [Scrappy Game](https://docs.google.com/presentation/d/1G3bKIdjtIq1PMsBwMOzEYmY1-y0BNhiNDirpQdWd-m8/view)
 - [Podium](https://docs.google.com/presentation/d/1jqiotnpM85Mahff5m0P0QbYmo_BgqnriRY_NR1aZ9rY/view)
 - [Closing Ceremony](https://docs.google.com/presentation/d/1Vssxyf9HpmyJhiLfCRYFOXtrzo7jrPc0SJdqP1uVOQo/view)
+
+## Portal
+
+- [Portal](https://hackclub.zoom.us/j/82463161473?pwd=GbhKbvsabZZbE1EwRe5vT5rUjKyZKi.1)
